@@ -25,8 +25,7 @@ Right now, I’m sharpening my frontend development skills and open to roles in 
 
 - 💼 I'm currently working on: **💻 Building personal frontend projects and improving my GitHub portfolio.**
 - 🌱 I'm currently learning: **📚 Sharpening my frontend development skills — mainly JavaScript, React, and UI design fundamentals.**
-- 💬 Ask me about: **💡 JavaScript, React, Python basics, machine learning concepts, and how I approach problem-solving in projects.**
-- ⚡ Fun fact: **I switch between tech and creative work easily — one moment I’m debugging code, the next I’m brainstorming content ideas.**
+- 💬 Ask me about: **💡 JavaScript basics, React, Python, ML concepts.**
 
  **<h3 align="left">Skills</h3>**
 
