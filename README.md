@@ -15,11 +15,11 @@
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://www.linkedin.com/in/ajay-kumar-m247" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white" height="32" style="margin-right: 18px"></a> <a href="https://github.com/TheAjayKumarr" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white" height="32" style="margin-right: 18px"></a> <a href="ajay.kumar.candidate@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" height="32" style="margin-right: 18px"></a></p>
 
- **<h3 align="left">I'm a Computer Science graduate and aspiring full-stack developer.
+ <h3 align="left">I'm a Computer Science graduate and aspiring full-stack developer.
  
 I work with Python, JavaScript, React.js, HTML/CSS, SQL, Machine Learning, and Data Analytics, and I’ve built projects in deep learning, NLP, and predictive modeling. I’ve also gained industry exposure through roles in planning, operations, and data science, which strengthened my decision-making and teamwork skills.
 
-Right now, I’m sharpening my frontend development skills and open to roles in Software Development, Frontend Dev, Data Science, or Tech-enabled Operations.</h3>**
+Right now, I’m sharpening my frontend development skills and open to roles in Software Development, Frontend Dev, Data Science, or Tech-enabled Operations.</h3>
 
 **<h3 align="left">Rapid Fire</h3>**
 
